@@ -89,8 +89,8 @@
 
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanshg395&theme=dark)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshg395&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mr0error404&theme=dark)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr0error404&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true)
 
 <br><br>
 
