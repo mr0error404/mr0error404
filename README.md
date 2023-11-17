@@ -1,84 +1,98 @@
+# Hey :pray:
 
-<!--  https://ritik307.github.io/portfolio/  -->
-<p align="center">
- 
-</p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+[![](https://img.shields.io/github/followers/vanshg395?style=social)](https://github.com/login?return_to=%2Fvanshg395)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0e76a8.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshg395/)
+[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/vanshg395)
+[![Twitter](https://img.shields.io/badge/Twitter-follow-00acee.svg?logo=twitter&logoColor=white)](https://twitter.com/vanshg395)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/onesh.goel/)
+[![GMail](https://img.shields.io/badge/GMail-contact-D44638.svg?logo=gmail&logoColor=white)](mailto:vanshg395@gmail.com)
 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+![Info](https://i.ibb.co/Z68PMLW/carbon-2.png)
 
-</p>
+---
 
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
+## My Skill Stack
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+	<span><strong>Dart</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Python</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>JavaScript</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>C++</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+	<span><strong>Flutter</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Firebase</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>ReactJS</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>HTML/CSS</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center" style="border: 0">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Git</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>VS Code</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center" style="border: 0">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Figma</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Adobe XD</strong></span><br><br>
+        <img height="64px" src="https://i.ibb.co/g7bVyF0/1200px-Adobe-XD-CC-icon-svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Illustrator</strong></span><br><br>
+        <img height="64px" src="https://i.ibb.co/0JMTW5k/1051px-Adobe-Illustrator-CC-icon-svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Photoshop</strong></span><br><br>
+        <img height="64px" src="https://i.ibb.co/hVrhC4Y/1051px-Adobe-Photoshop-CC-icon-svg.png">
+      </td>
+    </tr>
 
-<p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
- <img src="https://img.shields.io/badge/-Flutter-00599C?style=flat-square&logo=flutter"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-Dart-00599C?style=flat-square&logo=dart"/>
-<!-- <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> -->
-<!-- <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> -->
-<!-- <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> -->
-<!-- <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/> -->
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
+  </tbody>
+</table>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<br><br>
 
-<p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-Eng.Abdullah-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/abdullah-yaseein-2b3261217/">
- <img src="https://img.shields.io/badge/-Abdullah Yaseein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-yaseein-2b3261217/"/>
-</a>
-<!--  <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a> -->
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanshg395&theme=dark)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshg395&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true)
 
+<br><br>
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
-<hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+Visitor count<br>
+![GitHub Streak](https://profile-counter.glitch.me/vanshg395/count.svg)
