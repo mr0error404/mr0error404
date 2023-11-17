@@ -10,6 +10,10 @@
 <table>
   <tbody>
     <tr valign="top">
+	<td width="25%" align="center">
+	<span><strong>Dart</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
       <td width="25%" align="center">
 	<span><strong>Dart</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
@@ -38,7 +42,7 @@
       </td>
       <td width="25%" align="center">
         <span><strong>Android</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>HTML/CSS</strong></span><br><br>
@@ -47,6 +51,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center" style="border: 0">
+	<span><strong>AndroidStudio</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br>
