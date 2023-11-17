@@ -37,8 +37,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>ReactJS</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <span><strong>Android</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>HTML/CSS</strong></span><br><br>
