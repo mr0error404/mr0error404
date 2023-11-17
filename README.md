@@ -22,10 +22,6 @@
         <span><strong>JavaScript</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>C++</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
