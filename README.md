@@ -95,4 +95,4 @@
 <br><br>
 
 Visitor count<br>
-![GitHub Streak](https://profile-counter.glitch.me/vanshg395/count.svg)
+![GitHub Streak](https://profile-counter.glitch.me/mr0error404/count.svg)
