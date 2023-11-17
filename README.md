@@ -66,6 +66,8 @@
       </td>
     </tr>
     <tr valign="top">
+	    <td width="25%" align="center">
+      </td>
       <td width="25%" align="center">
         <span><strong>Figma</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
@@ -81,7 +83,6 @@
       <td width="25%" align="center">
         <span><strong>Photoshop</strong></span><br><br>
         <img height="64px" src="https://i.ibb.co/hVrhC4Y/1051px-Adobe-Photoshop-CC-icon-svg.png">
-      </td>
     </tr>
 
   </tbody>
