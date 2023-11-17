@@ -11,7 +11,7 @@
   <tbody>
     <tr valign="top">
 	<td width="25%" align="center">
-	<span><strong>Dart</strong></span><br><br>
+	<span><strong>C#</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
