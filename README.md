@@ -93,6 +93,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mr0error404&theme=dark)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr0error404&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mr0error404&theme=blue-green&border_radius=16&locale=he&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br><br>
 
 Visitor count<br>
