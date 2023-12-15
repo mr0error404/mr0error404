@@ -63,8 +63,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center" style="border: 0">
-	       <span><strong>VS Code</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+	       <span><strong>GitHub</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-code.svg">
       </td>
     </tr>
     <tr valign="top">
