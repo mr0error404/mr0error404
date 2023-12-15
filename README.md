@@ -112,7 +112,4 @@
 <br><br>
 
 Visitor count<br>
-https://profile-counter.glitch.me/mr0error404
-https://profile-counter.glitch.me/mr0error404
-https://profile-counter.glitch.me/mr0error404
 ![GitHub Streak](https://profile-counter.glitch.me/mr0error404/count.svg)
