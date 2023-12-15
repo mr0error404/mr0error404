@@ -48,6 +48,10 @@
         <span><strong>HTML/CSS</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
+	<td width="25%" align="center">
+        <span><strong>PHP</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center" style="border: 0">
@@ -64,7 +68,7 @@
       </td>
       <td width="25%" align="center" style="border: 0">
 	       <span><strong>GitHub</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-code.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
       </td>
     </tr>
     <tr valign="top">
