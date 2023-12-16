@@ -54,7 +54,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
 	<td width="25%" align="center">
-        <span><strong>PHP</strong></span><br><br>
+        <span><strong>Laravel</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
     </tr>
