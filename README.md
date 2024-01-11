@@ -10,7 +10,7 @@
 
 <table>
   <tbody>    
-    <tr valign="top">
+    <tr valign="top"> 
 	<td width="25%" align="center">
 	<span><strong>C#</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
