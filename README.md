@@ -4,7 +4,7 @@
 
 
 
-## Hi 👋, I'm Abdullah Yas Hemeda 
+## Hi 👋, I'm Abdullah Yas 
 ![](https://komarev.com/ghpvc/?username=mr0error404&style=for-the-badge)          
 
 <table>
