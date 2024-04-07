@@ -113,3 +113,9 @@
 
 Visitor count<br>
 ![GitHub Streak](https://profile-counter.glitch.me/mr0error404/count.svg)
+
+
+<h2 align="center">🏆 GitHub Profile Trophies:<h2>
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr0error404&theme=algolia" alt="mr0error404" /></a> </p>
+
