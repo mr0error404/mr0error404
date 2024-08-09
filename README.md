@@ -1,118 +1,33 @@
-    # Hey :pray:
-
 [![](https://img.shields.io/github/followers/mr0error404?style=social)](https://github.com/login?return_to=%2Fmr0error404)  
+   
+
+# Mysterious Code Realms
 
 
+"In the labyrinth of tangled lines and within the endless loops, where parallel programming intertwines with code errors, I search for secrets hidden behind obscure API interfaces. Here, where Null Pointers dance and Stack Traces fail to reveal the truth, it takes a blend of deep analysis and magical code algorithms to decode the missing lines of code. Are you ready to uncover what lies beyond the 404 errors?"
+
+
+"В лабиринте запутанных строк и бесконечных циклов, где параллельное программирование переплетается с ошибками кода, я ищу секреты, скрытые за туманными интерфейсами API. Здесь, где Null Pointers танцуют, а Stack Traces не раскрывают правду, требуется сочетание глубокого анализа и волшебных алгоритмов кода, чтобы расшифровать недостающие строки кода. Готовы ли вы раскрыть то, что скрывается за ошибками 404?"
+
+
+"Karmaşık kod satırları ve sonsuz döngüler labirentinde, paralel programlamanın kod hatalarıyla iç içe geçtiği yerlerde, belirsiz API arayüzlerinin arkasındaki sırları arıyorum. Burada, Null Pointers’ın dans ettiği ve Stack Traces’ın gerçeği ortaya koyamadığı yerde, eksik kod satırlarını çözmek için derin analiz ve sihirli kod algoritmalarının birleşimi gerekmektedir. 404 hatalarının ötesinde ne olduğunu keşfetmeye hazır mısınız?"
+
+
+
+
+
+
+
+
+
+
+
+Visitor count<br>
+
+![GitHub Streak](https://profile-counter.glitch.me/mr0error404/count.svg)
 
    
 ![](https://komarev.com/ghpvc/?username=mr0error404&style=for-the-badge)           
-
-<table>
-  <tbody>      
-    <tr valign="top"> 
-	<td width="25%" align="center">
-	<span><strong>C#</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-      </td>
-      <td width="25%" align="center">
-	<span><strong>Dart</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
-      </td>         
-      <td width="25%" align="center">
-        <span><strong>Python</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>C++</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
-	    <td width="25%" align="center">
-        <span><strong>Next.Js</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
-      </td>
-    </tr> 
-    <tr valign="top">
-      <td width="25%" align="center">
-	<span><strong>Flutter</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Firebase</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Android</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>HTML/CSS</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-	<td width="25%" align="center">
-        <span><strong>Laravel</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center" style="border: 0">
-	<span><strong>AndroidStudio</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>VS Code</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center" style="border: 0">
-	       <span><strong>GitHub</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-	    <td width="25%" align="center">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Figma</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Adobe XD</strong></span><br><br>
-        <img height="64px" src="https://i.ibb.co/g7bVyF0/1200px-Adobe-XD-CC-icon-svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Illustrator</strong></span><br><br>
-        <img height="64px" src="https://i.ibb.co/0JMTW5k/1051px-Adobe-Illustrator-CC-icon-svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Photoshop</strong></span><br><br>
-        <img height="64px" src="https://i.ibb.co/hVrhC4Y/1051px-Adobe-Photoshop-CC-icon-svg.png">
-    </tr>
-
-  </tbody>
-</table>
-
-<br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mr0error404&theme=dark)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr0error404&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr0error404&show_icons=true&locale=en&layout=compact" alt="mr0error404" /></p>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mr0error404&theme=blue-green&border_radius=16&locale=he&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br><br>
-
-Visitor count<br>
-![GitHub Streak](https://profile-counter.glitch.me/mr0error404/count.svg)
-
 
 <h2 align="center">🏆 GitHub Profile Trophies:<h2>
 <p align="center">
