@@ -22,6 +22,9 @@
 
 
 
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF5NHVtNmI0bGlxdXNwaXY0eW5ybzJoZmt2Nzg4bWwxOG1sNHoyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"><br>
+
+
 Visitor count<br>
 
 ![GitHub Streak](https://profile-counter.glitch.me/mr0error404/count.svg)
