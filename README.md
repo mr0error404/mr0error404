@@ -36,3 +36,5 @@ Visitor count<br>
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr0error404&theme=algolia" alt="mr0error404" /></a> </p>
 
+
+![e](https://github-readme-activity-graph.vercel.app/graph?username=mr0error404&bg_color=050505&color=ffffff&line=65f816&point=adadad&area=true&hide_border=true)
